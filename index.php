@@ -3,4 +3,4 @@ Mi primer contenedor en openshift
 <br>  
 Hola!!!!   
 <br>  
-<?php phpinfo() ?>
+<!-- ?php phpinfo() ? -->
